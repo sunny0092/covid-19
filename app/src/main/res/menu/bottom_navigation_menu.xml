@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/app_home"
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_24"/>
+
+    <item android:title="@string/app_news"
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_news_24"/>
+
+    <item android:title="@string/app_prevention"
+        android:id="@+id/navigation_prevention"
+        android:icon="@drawable/ic_prevention_24"/>
+
+    <item android:title="@string/app_guide"
+        android:id="@+id/navigation_guide"
+        android:icon="@drawable/ic_guide_24"/>
+
+    <item android:title="@string/app_setting"
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_more_24"/>
+
+</menu>

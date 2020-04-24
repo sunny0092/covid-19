@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding3:rxbinding-swiperefreshlayout:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bcb146fe81c90cfc50811bf111ba041b/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab7aec193dea9475f35096eb8636ca4d/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e044df11aca0402724b1dbedf368f90/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fc78fcf51a1190a5d4caa5fe8cc0e88/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/368d076452a98f564adf2a8afc78fa10/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc23f94a2214c37880411adc017e41ae/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0758a2d557350f15a0b3bca2af104419/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e218ad303cbc3b2f48cc53fe034ae160/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a651d1df08e7684071b7040000d1d2ef/jetified-rxbinding-swiperefreshlayout-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a651d1df08e7684071b7040000d1d2ef/jetified-rxbinding-swiperefreshlayout-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a651d1df08e7684071b7040000d1d2ef/jetified-rxbinding-swiperefreshlayout-3.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding-swiperefreshlayout/3.1.0/259ca86d292bceb17fba68837a0b6c3518037b22/rxbinding-swiperefreshlayout-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding-swiperefreshlayout/3.1.0/c81f847b12260d795a1a9f49106912e16f729ff5/rxbinding-swiperefreshlayout-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

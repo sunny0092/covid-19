@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="covid19.app" target="1.8" />
+      <module name="covid19.buildSrc" target="1.8" />
+      <module name="covid19.commons.base" target="1.8" />
+      <module name="covid19.commons.ui" target="1.8" />
+      <module name="covid19.commons.utils" target="1.8" />
+      <module name="covid19.core" target="1.8" />
+      <module name="covid19.features.ui_home" target="1.8" />
+      <module name="covid19.features.ui_news" target="1.8" />
+      <module name="covid19.features.ui_prevention" target="1.8" />
+      <module name="covid19.features.ui_settings" target="1.8" />
+      <module name="covid19.features.ui_tutorial" target="1.8" />
+      <module name="covid19.navigation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

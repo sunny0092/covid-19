@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ConstraintSet android:id="@+id/unCollapsedScaffolding"/>
+    <ConstraintSet android:id="@+id/collapsedScaffolding">
+        <Constraint
+            android:id="@+id/bottom_navigation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </ConstraintSet>
+    <Transition
+        android:id="@+id/collapseScaffolding"
+        app:constraintSetEnd="@+id/collapsedScaffolding"
+        app:constraintSetStart="@+id/unCollapsedScaffolding">
+    </Transition>
+
+</MotionScene>

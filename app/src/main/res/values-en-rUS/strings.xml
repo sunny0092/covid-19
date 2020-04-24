@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompa Group</string>
+    <string name="app_home">Home</string>
+    <string name="app_news">News</string>
+    <string name="app_prevention">Safety</string>
+    <string name="app_help">Help</string>
+    <string name="title_home_local_map">Vietnamese</string>
+    <string name="title_home_world_map">"World "</string>
+    <string name="title_home_map">Map</string>
+    <string name="app_guide">Guide</string>
+    <string name="app_setting">Setting</string>
+</resources>

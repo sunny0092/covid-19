@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rasalexman.coroutinesmanager:coroutinesmanager:1.2.32@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2dac42aecb9f76ec73c1774f4720648/jetified-coroutinesmanager-1.2.32/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2dac42aecb9f76ec73c1774f4720648/jetified-coroutinesmanager-1.2.32/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2dac42aecb9f76ec73c1774f4720648/jetified-coroutinesmanager-1.2.32/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rasalexman.coroutinesmanager/coroutinesmanager/1.2.32/abff9b0aee372bb2aaf647397554c28fd44858e7/coroutinesmanager-1.2.32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rasalexman.coroutinesmanager/coroutinesmanager/1.2.32/3ff0269496124960bc7d1de38cdfa10d0994a4d8/coroutinesmanager-1.2.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

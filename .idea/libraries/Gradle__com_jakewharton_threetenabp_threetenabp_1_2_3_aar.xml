@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.threetenabp:threetenabp:1.2.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/535b7e2e73ed3fada468a2bb30b797c9/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b348f2bff1f83f37b90d0b31e524711/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/942bd8f24d0e98cb786a7fb91f1467f4/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e16a6e7d18ace7bd3c45102983bb77c7/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aad187f12eaa665e98cf4301c88f478c/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/304a3d0514b1c250af7eacef0f50a277/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a3b86eb77dff6c9b2ce4bfcbeffcdb/jetified-threetenabp-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b104b3221dffb020e6b62dfbf3bde3a1/jetified-threetenabp-1.2.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d513e5065d95681d1990bea67cf43e2e/jetified-threetenabp-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d513e5065d95681d1990bea67cf43e2e/jetified-threetenabp-1.2.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d513e5065d95681d1990bea67cf43e2e/jetified-threetenabp-1.2.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.threetenabp/threetenabp/1.2.3/3da3a3d33d69a671e68445ed64ba1bb175790772/threetenabp-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.threetenabp/threetenabp/1.2.3/154bbdb8b6cc8b51fcc9334fa19e9a212ca0dbe3/threetenabp-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

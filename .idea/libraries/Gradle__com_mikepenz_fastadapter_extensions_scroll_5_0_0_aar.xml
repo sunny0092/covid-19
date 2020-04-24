@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter-extensions-scroll:5.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e909601a95ea4f63facb928a04eb6a4/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5218b0f774d816068c82376dbca8f11e/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c215bd0e3fd90d5903414af7dbd01f/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4cf224c4813bdcab6c0202afa3278630/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccc3eb7365c37b32fa73b22b4620b090/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f321b9db91557634cfa3269e2037f3c/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2aed88cd5941c8e040db3d2c1aa31ba3/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/379b6dad6edeed1247db7749201142a6/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74eb301c9a3243ec15638b9953e80af2/jetified-fastadapter-extensions-scroll-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74eb301c9a3243ec15638b9953e80af2/jetified-fastadapter-extensions-scroll-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74eb301c9a3243ec15638b9953e80af2/jetified-fastadapter-extensions-scroll-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-scroll/5.0.0/7b2bee51f4ea08d4b22e21ea7a52aa38d2e68272/fastadapter-extensions-scroll-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-scroll/5.0.0/c7f3273077801fb9e063b4362d753b40a8882aae/fastadapter-extensions-scroll-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

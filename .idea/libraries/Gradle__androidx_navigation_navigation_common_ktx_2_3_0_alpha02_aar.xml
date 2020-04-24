@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common-ktx:2.3.0-alpha02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93e7562dfdc4ff44bb18dad2c8aea4eb/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57566312a9c53592977af9a2aa4de7dd/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f8e200637b3173debefd7a52186f73e/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddc6f9e688126b71a7f1341b03c2eaf5/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd027b1c92dee54a6d54514d8403a55e/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96c16f36aadf54bba6d36a0918c8f4af/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5da5e65a74aea5677d33265f5181fdd3/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0789412aa9e7ab023d5582376e9c7de2/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0aa4f4fea06b8e8c165d189739069083/navigation-common-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0aa4f4fea06b8e8c165d189739069083/navigation-common-ktx-2.3.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0aa4f4fea06b8e8c165d189739069083/navigation-common-ktx-2.3.0-alpha02/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common-ktx/2.3.0-alpha02/259d2d81db0b1901efd31f6ac1b36e2b8810a3de/navigation-common-ktx-2.3.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

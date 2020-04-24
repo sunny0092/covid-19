@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: io.coil-kt:coil:0.8.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed7f9af7f3c3db65ead4d0aa79dc8028/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76553aa7847cb4da057066e9b2db6dba/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1ed9267f6adafe933fcc2a31575d5b1/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6b549abccc87915bf7359809b4abe7c/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39309e2ef3b5699104222c2bb01b42b3/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e4a43697cff94f5368f1ccd164d0e5f/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae3e534878a6ebc49648068d3a503bd7/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25568327bc7c5bd970529edfeff8d897/jetified-coil-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1daf2fda1a4917fc222f1ba90ac3d3d4/jetified-coil-0.8.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1daf2fda1a4917fc222f1ba90ac3d3d4/jetified-coil-0.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1daf2fda1a4917fc222f1ba90ac3d3d4/jetified-coil-0.8.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.coil-kt/coil/0.8.0/9624503353589f6355dd3602f531a00256125ffd/coil-0.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.coil-kt/coil/0.8.0/1f49d66820eed251f8003de2967483d45b57f4d8/coil-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

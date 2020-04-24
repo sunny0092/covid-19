@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/covid19.iml" filepath="$PROJECT_DIR$/.idea/modules/covid19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/covid19.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/covid19.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/covid19.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/covid19.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/covid19.commons.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/covid19.commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/base/covid19.commons.base.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/base/covid19.commons.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/ui/covid19.commons.ui.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/ui/covid19.commons.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/utils/covid19.commons.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/utils/covid19.commons.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/covid19.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/covid19.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/covid19.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/covid19.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ui-home/covid19.features.ui_home.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ui-home/covid19.features.ui_home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ui-news/covid19.features.ui_news.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ui-news/covid19.features.ui_news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ui-prevention/covid19.features.ui_prevention.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ui-prevention/covid19.features.ui_prevention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ui-settings/covid19.features.ui_settings.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ui-settings/covid19.features.ui_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ui-tutorial/covid19.features.ui_tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ui-tutorial/covid19.features.ui_tutorial.iml" />
+    </modules>
+  </component>
+</project>

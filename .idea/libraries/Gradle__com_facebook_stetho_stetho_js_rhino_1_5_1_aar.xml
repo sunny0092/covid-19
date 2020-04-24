@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.stetho:stetho-js-rhino:1.5.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/223f33752125ee431b795a0f458af2a1/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2939746a25bd193fee599eac27b3190/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a456decd31cc2932ab7b0617bafe81da/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee97015d1d48bd2ec9c1c0e1227ec3e4/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbb398ad398fa6128739fe190dd571f7/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f64efd894f3f3a555ed47375c3e3e1a7/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/039843c1a32277ba9bf6f95d4f247a37/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18c27d965aae4c5ebbebc400258a8d6d/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f87c67c81c092105a1dbc9f0b9d399d/jetified-stetho-js-rhino-1.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f87c67c81c092105a1dbc9f0b9d399d/jetified-stetho-js-rhino-1.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f87c67c81c092105a1dbc9f0b9d399d/jetified-stetho-js-rhino-1.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-js-rhino/1.5.1/9a2648d2047634b132da5c4658d94ebc9a508584/stetho-js-rhino-1.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-js-rhino/1.5.1/d56565548141a3e05a481171871412ff7fa2dd6d/stetho-js-rhino-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

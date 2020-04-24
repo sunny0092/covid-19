@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-android:2.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8fbc29a649b78649830eeafec4696f32/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2a1be46a1cabc2d62b705ff27bc3668/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213676a02088e9b60eeecbc622c669e1/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc2423b92c4924b24b9c410f6692160e/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1124367fabad2a80c543d865e50f96b1/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/723feabe7f386e59121f188a3c015234/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f238f9cfe42c01c99255cca782637df/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e51068de011f7012d080eb339fdb6a25/jetified-koin-android-2.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/272bc4cfb8462afcaa95746227dfb212/jetified-koin-android-2.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/272bc4cfb8462afcaa95746227dfb212/jetified-koin-android-2.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/272bc4cfb8462afcaa95746227dfb212/jetified-koin-android-2.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android/2.1.3/8478635e01c9e23d11a66d6efd71111d4b36eee8/koin-android-2.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android/2.1.3/e4d9cca2f90b6171f25ae5700643cff77920a565/koin-android-2.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.paging:paging-runtime-ktx:2.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6eef9172fdffd8df44ed6a35a982eaf5/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/973ec1503c129dee78a11b4cf6d56d9a/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dba30274f547daa25db8bb96ba3eb461/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8b2a114e5014db9ee192535075b4683/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b362795207a8cd5ad21f21f4b7f56ba5/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e09f5ef6a7d51a77bd9ba1c16bc103e/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a5d4a8e11f17f2e6bb8d412d3620206/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f309f090eff17cbad3576d8ef9fe0c4/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c1e1ecbd87637d9b4a15588ffdf2d6b/jetified-paging-runtime-ktx-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c1e1ecbd87637d9b4a15588ffdf2d6b/jetified-paging-runtime-ktx-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c1e1ecbd87637d9b4a15588ffdf2d6b/jetified-paging-runtime-ktx-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-runtime-ktx/2.1.1/60fbe240b46ce93d4881d1be63d44e754c89c2db/paging-runtime-ktx-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.2.0-alpha03@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3461baae17f57a1bf513d48ec9fa4a8f/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4328af5dd3b8ceae933f5cf6d456bde3/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54a66146decca92ade31b6ebcac92427/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/431f90ca30b1ff14fd158aacb28b066b/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf08608f599c8579f4d1f04a884aea0a/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/983106a2c493045862a379b4d0890054/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1f1148983294859559d3408cf965806/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54c231a39a21479d63c1c46039c71a3a/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41b13122165e7a96581d1bd4ecb9246b/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41b13122165e7a96581d1bd4ecb9246b/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41b13122165e7a96581d1bd4ecb9246b/jetified-lifecycle-runtime-ktx-2.2.0-alpha03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-ktx/2.2.0-alpha03/130f41e65c879609aef4d5626cbe5abc6946985/lifecycle-runtime-ktx-2.2.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-ui-ktx:2.3.0-alpha02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2906f97ca5cdaa79b54b8d324eedb5c6/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8f73d0c831b5e547a9b859add616ae3/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de6e0b8a32a268ffaa0198b8bbe11f5e/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c25ac25910025b17a697685c15cbb3f9/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15e52da06633feecb22bac8d06415ca2/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7d08b71fb1fbe02d65a3e583c9778e1/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/293e54535294022028ea0ee250f1c116/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07dd5d2e62e9e002d4f540a2316edc4b/navigation-ui-ktx-2.3.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27d538d2566ed8e03866a4cc2d6840c4/navigation-ui-ktx-2.3.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27d538d2566ed8e03866a4cc2d6840c4/navigation-ui-ktx-2.3.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27d538d2566ed8e03866a4cc2d6840c4/navigation-ui-ktx-2.3.0-alpha02/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.0-alpha02/2a3133fd01dfcc8cc485a847d085c39ef198a842/navigation-ui-ktx-2.3.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

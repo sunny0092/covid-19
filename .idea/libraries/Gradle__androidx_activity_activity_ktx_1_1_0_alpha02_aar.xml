@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity-ktx:1.1.0-alpha02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97e00f9cfadf9d0cefe7f528ee44eabb/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4522e4d602fd03fc0e70706eb9ef3370/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9cfd53cf3ac8bd85d995be4af91c1d2/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f15acaa92169e547324c4a19bd38e45e/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42398c035d671b9cb9584701d44bd09b/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4022cf1f508801ac3113c5cdb9b42173/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49bf65b2aae5eaab2d106cd24c3c269b/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/784dc18d0457f11778bdc9a76d687353/jetified-activity-ktx-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5290513490c8b93bfe3baff9a918778/jetified-activity-ktx-1.1.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5290513490c8b93bfe3baff9a918778/jetified-activity-ktx-1.1.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5290513490c8b93bfe3baff9a918778/jetified-activity-ktx-1.1.0-alpha02/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.1.0-alpha02/8725ce304372d4bab29388b64d09ec683fd4292e/activity-ktx-1.1.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.leakcanary:leakcanary-android-instrumentation:2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/671bcd65679cbec2b0627adc25d3ba48/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b43c1736ac4eb1292fe6df4db838f171/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c21e1e46efb7ce5a2f4671bff25f1519/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/afadf658281656f0c184d757c2706f63/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6239f16c140b94f0c148fa32d2f61b2d/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b65b19d3c8ad0f3031fce34b2d592a3/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ae045f76f82fe64d4676cadb6734b9c/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/356ae01b3590f3243fbc67720572c2de/jetified-leakcanary-android-instrumentation-2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8562d766cb973878a312bb6dd9a2cab/jetified-leakcanary-android-instrumentation-2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8562d766cb973878a312bb6dd9a2cab/jetified-leakcanary-android-instrumentation-2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8562d766cb973878a312bb6dd9a2cab/jetified-leakcanary-android-instrumentation-2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-android-instrumentation/2.0/324c30abbc18dac13b91ad850c9629dd8cd3c23c/leakcanary-android-instrumentation-2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-android-instrumentation/2.0/82b4b1326e8af8b64e16cc716536bd6736dad5b/leakcanary-android-instrumentation-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

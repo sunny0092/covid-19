@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter-extensions-diff:5.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4d329b780dfdac5eab047386ad4529/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf3e0e5187f3501e43e8c4e2f76406a4/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/418873269ff3e1b4e9e98f8ee911c78b/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a65821bf194cc87639e3144b80fdbe59/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f7f9b0cd2d49ae16095117abbf125b3/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e7163da2e418dcd4315da58a565d7c3/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac9b1b1c20b214b0e63d396628e4a2d2/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e02e7a14485288a5cf4af533a7feebae/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/495ee1c53d59c41be8744f8d310b6bbb/jetified-fastadapter-extensions-diff-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/495ee1c53d59c41be8744f8d310b6bbb/jetified-fastadapter-extensions-diff-5.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/495ee1c53d59c41be8744f8d310b6bbb/jetified-fastadapter-extensions-diff-5.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-diff/5.0.0/d3369f4043acb0931b83c341b61fcdb992a1929/fastadapter-extensions-diff-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-diff/5.0.0/a5097744eb762d1fba0519258d25dd7ac03bf669/fastadapter-extensions-diff-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

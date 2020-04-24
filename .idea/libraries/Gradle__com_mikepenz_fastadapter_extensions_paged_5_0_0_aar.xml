@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter-extensions-paged:5.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85cfe6a4712ddbdb3715fcd977ca4887/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37ee9acc50c1f41dcf8292f7cf987c7c/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02519e2c1649a5a00dae11fd0ed90f4/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68c822992287fa1e7b858b7b5b91ef10/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2615adde420b7c1692c5b9ba606e995f/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5eb1ce51a73fa6be0b925fcd0987ced2/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10cdab42225965351692c0bc4abc5858/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7e02e7754af713acd6581b91acd0bd3/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a521ef4d3c01cdb3e8d6a1d464aa5310/jetified-fastadapter-extensions-paged-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a521ef4d3c01cdb3e8d6a1d464aa5310/jetified-fastadapter-extensions-paged-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a521ef4d3c01cdb3e8d6a1d464aa5310/jetified-fastadapter-extensions-paged-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-paged/5.0.0/e96b55df3c2a10ee0fcd25e357de441464fb4265/fastadapter-extensions-paged-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-paged/5.0.0/acf3055d8f630b6558d09bac72f9e448701471fa/fastadapter-extensions-paged-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

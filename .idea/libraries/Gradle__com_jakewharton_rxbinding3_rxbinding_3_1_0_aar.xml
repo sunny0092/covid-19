@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding3:rxbinding:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cad2c14f7855fa51097601f2cac954fe/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e9fd924aee9cdd9f005f200a242635b/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22c60019981ac29c1f8dd56a391cbfd0/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa42a6f3e7cea58a4a90e6e083222610/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/704d869e71f8f623d57093b3a6c36637/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2406f638e9a8e5f26a8ef9729424a3a/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d20c75c5ac227371da1ade9394e73d69/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3a7da71d1034b95774334320521684b/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89f2f50b2623b2e3bb297b1958aaf1d4/jetified-rxbinding-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89f2f50b2623b2e3bb297b1958aaf1d4/jetified-rxbinding-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89f2f50b2623b2e3bb297b1958aaf1d4/jetified-rxbinding-3.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding/3.1.0/6328e9b187f147f33b56ce9a75c31c4bd8ccd7bf/rxbinding-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding/3.1.0/c3e205f52c55e9d505be47d73041c8c564023aba/rxbinding-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

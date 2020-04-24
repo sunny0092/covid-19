@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter-extensions-swipe:5.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02b0269ec73ba08d3eb0ba7ca9dcc233/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc67d1f213c7e783fe65841cf6a63ea4/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c600849fd105fbcb9d282ee0389231d/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53063f90e8e436751b9574a981c4b91a/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6284e42978dd31f57056700c6be9c635/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df40286a9cf256864942ea0cec9d3888/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/955333bc7f655abca014e534b96c64d4/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ecb7743a21845d96ac7a83b7d25792a/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3df35c4bceb6c60f96ddaf8e73b2859/jetified-fastadapter-extensions-swipe-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3df35c4bceb6c60f96ddaf8e73b2859/jetified-fastadapter-extensions-swipe-5.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3df35c4bceb6c60f96ddaf8e73b2859/jetified-fastadapter-extensions-swipe-5.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-swipe/5.0.0/74cf4ca1f2e1f2f9db92e568851978cf84a1f0f1/fastadapter-extensions-swipe-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-swipe/5.0.0/3379e671665676ada68525e743f85e30804058c4/fastadapter-extensions-swipe-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

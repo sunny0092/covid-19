@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding3:rxbinding-material:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/852baf02231866c211df66365606b1db/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1160b7595395d4ff9b32a997798ff701/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9a50cd83ed84aa75e4cb1fa110d608c/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25747b4f727535a66c5cc2df3ee77e3c/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8062ae82325e7d7c0951ae1c40fbeef/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddca33000ada84d0ced953360965ce66/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/769fe5a0bd2d227597c26b5ecfeeed04/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/974d87f36d8a1552e501c1845b7b0c29/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d69b4080affbac4bd1934f87f8849079/jetified-rxbinding-material-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d69b4080affbac4bd1934f87f8849079/jetified-rxbinding-material-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d69b4080affbac4bd1934f87f8849079/jetified-rxbinding-material-3.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding-material/3.1.0/33c23f4f8838226aa9e18c99f386a4633593513c/rxbinding-material-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding-material/3.1.0/73623097efde01a25e59d82571eda0cef03a1ee0/rxbinding-material-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
